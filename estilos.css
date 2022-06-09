@@ -10,7 +10,7 @@ body {
     height: 100vh;
 }
 .border {
-    background-color: red;
+    background-color: aqua;
 
 }
 header{
@@ -27,7 +27,7 @@ h1 {
 
 }
 li {
-    background-color: black;
+    background-color: beige;
     margin: 5px;
     padding: 10px ;
     text-align: center;
